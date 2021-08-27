@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaVisual", "CapaVisual\CapaVisual.csproj", "{4C627D97-77BC-4D7B-A0A7-1182D732FCB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaDeDatos", "CapaDeDatos\CapaDeDatos.csproj", "{515A09B1-F1D0-476F-9A65-4DBD2089DC89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaLogica", "CapaLogica\CapaLogica.csproj", "{B7537CB7-2330-41C0-A672-7B1561A95E3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C627D97-77BC-4D7B-A0A7-1182D732FCB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C627D97-77BC-4D7B-A0A7-1182D732FCB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C627D97-77BC-4D7B-A0A7-1182D732FCB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C627D97-77BC-4D7B-A0A7-1182D732FCB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{515A09B1-F1D0-476F-9A65-4DBD2089DC89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{515A09B1-F1D0-476F-9A65-4DBD2089DC89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{515A09B1-F1D0-476F-9A65-4DBD2089DC89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{515A09B1-F1D0-476F-9A65-4DBD2089DC89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7537CB7-2330-41C0-A672-7B1561A95E3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7537CB7-2330-41C0-A672-7B1561A95E3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7537CB7-2330-41C0-A672-7B1561A95E3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7537CB7-2330-41C0-A672-7B1561A95E3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1AC053A-91A7-49ED-B65C-4D72E02859C2}
+	EndGlobalSection
+EndGlobal
